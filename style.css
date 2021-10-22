@@ -1,9 +1,6 @@
-html {
-  box-sizing: border-box;
-}
-
+/* https://codepen.io/liamj/pen/vvdRdR */
+/* To use this button Css checkout the above link */
 /* Css for button*/
-/* Starts from here */
 html {
   box-sizing: border-box;
   height: 100%;
@@ -70,4 +67,3 @@ label:active {
   top: 3px;
   box-shadow: none;
 }
-/* Ends here */
